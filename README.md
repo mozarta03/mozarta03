@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently a computer science student.
+- 🤔 I’m looking for help with web hosting and anything related to it for my team's project.
+- 📫 How to reach me: Discord: froiofficial
 <!--
 **mozarta03/mozarta03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
