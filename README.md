@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently a computer science student.
+- 🌱 I’m currently a computer science graduate.
 - 🤔 I’m looking for help with web hosting and anything related to it for my team's project.
 - 📫 How to reach me: Discord: froiofficial
 <!--
